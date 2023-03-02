@@ -75,7 +75,6 @@ input, button {
 header {
     background-image: url("../assets/images/mountains.jpg");
     background-size: cover;
-    background-position: top;
     max-width: 1000px;
 }
 
@@ -185,7 +184,7 @@ border: 2px solid #1C2B32;
 
 .link-support {
     font-size: 10px;
-    margin: 10px -1px 15px; 0;
+    margin: 10px -1px 15px 0;
     text-align: left;
 }
 
@@ -220,6 +219,7 @@ border: 2px solid #1C2B32;
 footer {
     background-color: #1C2B32;
     max-width: 1000px;
+    margin-top: 50px;
 }
 .footer-text {
     color: white;
